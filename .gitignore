@@ -1,0 +1,16 @@
+# env
+
+.env
+google.json
+
+# build
+
+build/
+
+# artifact
+node_modules/
+
+# install tree
+
+package-lock.json
+yarn.lock
