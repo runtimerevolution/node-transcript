@@ -18,7 +18,7 @@ yarn start
 
 ## AssemblyAi 
 
-A developer account is necessary for its usage. It's creation can be made on https://www.assemblyai.com/dashboard/signup 
+A [developer account](https://www.assemblyai.com/dashboard/signup) is necessary for its usage. 
 
 For the account to be fully functional, there is the need to do a POST to the transcription endpoints.
 This can be made by executing the example on this repository.
