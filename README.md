@@ -33,4 +33,4 @@ On this case, one should have a google cloud platform account, with [Speech to T
 
 With it, a **google.json** file will be available. It should be pasted on the project's root.
 
-The project is ready to execute with **transcriptor** variable set to `this.google` on `src/index.ts` (watch for file formats, more insight in code comments)
+The project is ready to execute with **transcriptor** variable set to `this.google` on `src/index.ts` (watch for audio file extensions, more insight in code comments)
