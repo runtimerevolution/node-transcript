@@ -49,8 +49,7 @@ class App {
     convert(
       inputPath,
       async (outputPath) => {
-        const transcript = await this.makeTranscript(outputPath);
-        console.log(transcript);
+        await this.makeTranscript(outputPath);
       },
       (e) => console.log("error " + e)
     );
